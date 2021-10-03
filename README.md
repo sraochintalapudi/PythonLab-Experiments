@@ -12,13 +12,13 @@ This Repository consists of python lab experiments for II Year CSE (AI &amp; ML)
 8. Write a python program to find largest of three numbers.
 9. Write a Python program to convert temperatures to and from Celsius, Fahrenheit. [Formula: c/5 = f-32/9]
 10. Write a Python program to construct the following pattern, using a nested for loop
-*
-* *
-* * *
-* * * *
-* * *
-* *
-* 
+\*
+\* \*
+\* \* \*
+\* \* \* \*
+\* \* \*
+\* \*
+\* 
 11. Write a Python script that prints prime numbers less than20.
 12. Write a python program to find factorial of a number using Recursion.
 13. Write a program that accepts the lengths of three sides of a triangle as inputs. The program output should indicate whether or not the triangle is aright triangle (Recall from the Pythagorean Theorem that in a right triangle, the square of one side equals the sum of the squares of the other two sides).
