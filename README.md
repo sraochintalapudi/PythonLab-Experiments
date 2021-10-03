@@ -1,6 +1,6 @@
 # PythonLab-Experiments
 This Repository consists of python lab experiments for II Year CSE (AI &amp; ML) students, CMR Technical Campus (Autonomous).
-List of Experiments- R20 Regulation- Python Lab
+#List of Experiments- R20 Regulation- Python Lab
 1	Write a program to demonstrate different number datatypes in Python.
 2	Write a program to perform different Arithmetic Operations on numbers in Python.
 3	Write a program to create, concatenate and print a string and accessing sub-string from a given string.
