@@ -12,8 +12,8 @@ This Repository consists of python lab experiments for II Year CSE (AI &amp; ML)
 8. Write a python program to find largest of three numbers.
 9. Write a Python program to convert temperatures to and from Celsius, Fahrenheit. [Formula: c/5 = f-32/9]
 10. Write a Python program to construct the following pattern, using a nested for loop
-\*
-\* \*
+\* <br>
+\* \* <br>
 \* \* \*
 \* \* \* \*
 \* \* \*
